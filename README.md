@@ -6,6 +6,8 @@
 “This project reflects my ability to step into complex, unfamiliar environments, quickly understand the constraints, and bring teams together to deliver a compliant, working solution.”
 
 **Overview**
+
+
 Led the turnaround of a failed portable data center design aligned to SCIF (Sensitive Compartmented Information Facility) and MIL-STD requirements, restoring compliance and enabling a deployable, secure solution.
 
 **My Role**
