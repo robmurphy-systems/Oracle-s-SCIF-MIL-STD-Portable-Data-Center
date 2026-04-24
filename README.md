@@ -17,11 +17,17 @@ Coordinated cross-functional efforts spanning electrical, physical security, and
 **Key Contributions**
 
 **Compliance Remediation:** Identified and resolved critical NEC code violations
+
 **Security Enhancements:** Implemented SCIF-aligned biometric access controls and fail-secure power/locking systems
+
 **Fire Safety & Resilience**: Defined fire safety use cases and integrated appropriate safeguards
+
 **Infrastructure Design:** Optimized rack layout, structured cabling, and cooling efficiency
+
 **System Integration:** Ensured all subsystems (power, cooling, security) operated cohesively under constrained environments
+
 **Site Readiness & Utilities:** Ensured Oracle Facilities delivered required power, networking, and concrete pads for both the portable data center and generator installations
+
 **Data Center Commissioning**: Played a key role in L1–L5 data center bring-up, supporting commissioning, integration, and operational readiness across infrastructure layers
 
 **Outcome**
