@@ -38,6 +38,8 @@ Brought design into full compliance with required standards
 Transformed a stalled effort into a deployable, production-ready system
 Reduced operational risk through improved safety, security, and infrastructure alignment
 
+**Today, the system is deployed and running outside Oracle's Government GDI building in Reston, Virginia, for customer display.**
+
 
 **Key Skills Demonstrated**
 Technical Program Management • Systems Integration • Regulatory Compliance (NEC, SCIF) • Cross-Functional Leadership • Risk Remediation • Infrastructure Design
