@@ -5,6 +5,8 @@
 
 “This project reflects my ability to step into complex, unfamiliar environments, quickly understand the constraints, and bring teams together to deliver a compliant, working solution.”
 
+https://www.oracle.com/a/ocom/docs/data-sheet-roving-edge-station.pdf
+
 **Overview**
 
 
